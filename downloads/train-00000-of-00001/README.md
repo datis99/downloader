@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `train-00000-of-00001.parquet` |
-| **URL** | https://huggingface.co/datasets/divarofficial/real-estate-ads/resolve/main/data/train-00000-of-00001.parquet |
-| **Date** | 2026-05-07 16:34:57 UTC |
+| **URL** | https://hf-mirror.com/datasets/divarofficial/real-estate-ads/resolve/main/data/train-00000-of-00001.parquet |
+| **Date** | 2026-05-07 16:47:23 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -16,7 +16,7 @@
 ## Error Details
 
 ```
-Download failed after 3 attempts. Last error: curl: (22) The requested URL returned error: 401
+Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       curl: (22) The requested URL returned error: 404
 ```
 
 ---
