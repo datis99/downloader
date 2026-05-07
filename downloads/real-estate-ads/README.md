@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `real-estate-ads` |
-| **URL** | https://hf-mirror.com/datasets/divarofficial/real-estate-ads |
-| **Date** | 2026-05-07 16:57:39 UTC |
+| **URL** | https://huggingface.co/datasets/divarofficial/real-estate-ads |
+| **Date** | 2026-05-07 17:24:50 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -16,7 +16,7 @@
 ## Error Details
 
 ```
-Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       #=#=-#  #                                                                      curl: (22) The requested URL returned error: 401
+Download failed after 3 attempts. Last error: curl: (22) The requested URL returned error: 401
 ```
 
 ---
