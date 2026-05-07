@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `repo` |
 | **URL** | https://modelscope.cn/api/v1/datasets/AI-ModelScope/real_estate_ads/repo?Revision=master&FilePath=data%252Ftrain-00000-of-00001.parquet |
-| **Date** | 2026-05-07 18:12:02 UTC |
+| **Date** | 2026-05-07 18:12:09 UTC |
 | **Status** | **FAILED** |
 
 ---
