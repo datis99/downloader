@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `train-00000-of-00001.parquet` |
 | **URL** | https://huggingface.co/datasets/divarofficial/real-estate-ads/resolve/main/data/train-00000-of-00001.parquet |
-| **Date** | 2026-05-07 16:34:51 UTC |
+| **Date** | 2026-05-07 16:34:57 UTC |
 | **Status** | **FAILED** |
 
 ---
