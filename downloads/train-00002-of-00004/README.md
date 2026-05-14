@@ -1,4 +1,4 @@
-# train-00000-of-00004.parquet - Download Failed
+# train-00002-of-00004.parquet - Download Failed
 
 ---
 
@@ -6,9 +6,9 @@
 
 | Property | Value |
 |----------|-------|
-| **File** | `train-00000-of-00004.parquet` |
-| **URL** | https://huggingface.co/datasets/divarofficial/real-estate-ads/resolve/main/data/train-00000-of-00004.parquet |
-| **Date** | 2026-05-14 14:59:48 UTC |
+| **File** | `train-00002-of-00004.parquet` |
+| **URL** | https://huggingface.co/datasets/divarofficial/real-estate-ads/resolve/main/data/train-00002-of-00004.parquet |
+| **Date** | 2026-05-14 15:00:58 UTC |
 | **Status** | **FAILED** |
 
 ---
